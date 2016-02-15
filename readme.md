@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/shyiko/rcfg.svg?branch=master)](https://travis-ci.org/shyiko/rcfg)
 
-Search for configurable package.json-aware sync/async [rc]() alternative ends here.
+Search for configurable package.json-aware sync/async [rc](https://github.com/dominictarr/rc) alternative ends here.
 
 ## Installation
 
