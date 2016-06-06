@@ -38,6 +38,7 @@ var debug = util.debuglog('rcfg');
  */
 module.exports = function (name, o, cb) {
   typeof o === 'function' && (cb = o, o = {});
+  o || (o = {});
   o.cwd || (o.cwd = process.cwd());
   o.fmt = aro(o.fmt, [{ext: 'json', parser: json},
     {ext: ['yml', 'yaml'], parser: yaml}]);
