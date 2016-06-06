@@ -1,7 +1,7 @@
 {
   "name": "rcfg",
   "description": "Configurable package.json-aware sync/async rc alternative",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Stanley Shyiko <stanley.shyiko@gmail.com>",
   "license": "MIT",
   "repository": {
